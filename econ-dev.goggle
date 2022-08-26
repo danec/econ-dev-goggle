@@ -1,3 +1,8 @@
+! name: Economic Development Organizations Goggle
+! description: Shows results from econ dev organizations.  (econdevshow.com)
+! public: false
+! author: Dane Carlson
+
 $discard
 $boost,site=http://58inc.org
 $boost,site=http://aedamn.org
